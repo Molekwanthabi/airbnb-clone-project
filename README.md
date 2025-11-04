@@ -135,5 +135,39 @@ Understanding and defining design properties in Figma (such as colors, typograph
 * 🎯 **Ensures consistency** — all pages follow the same visual language.
 * 🧠 **Improves collaboration** — developers and designers can easily translate the design into code.
 * ⚡ **Speeds up development** — predefined design tokens reduce decision-making time.
+
+
+## 👥 Project Roles and Responsibilities
+
+### 🎯 Objective
+
+This section defines the key roles involved in the **Airbnb Clone Project** and outlines each team member’s primary responsibilities to ensure smooth collaboration and project success.
+
+---
+
+### 🧭 Roles Overview
+
+| Role                    | Description                                                                                    | Key Responsibilities                                                                                                                                                                                         |
+| ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Project Manager**     | Oversees the overall planning, coordination, and execution of the project.                     | - Define project goals and scope.<br> - Allocate resources and set timelines.<br> - Monitor progress and manage risks.<br> - Ensure effective team communication.                                            |
+| **Product Owner**       | Represents the stakeholders and defines the vision of the product.                             | - Create and manage the product backlog.<br> - Prioritize features based on business value.<br> - Ensure the final product meets user needs.<br> - Communicate vision and feedback to the team.              |
+| **Scrum Master**        | Facilitates the Agile process and removes team impediments.                                    | - Organize and lead Scrum ceremonies (daily stand-ups, sprints, retrospectives).<br> - Ensure Agile principles are followed.<br> - Support the development team in achieving sprint goals.                   |
+| **Frontend Developers** | Build and implement the user interface using HTML, CSS, JavaScript, and frameworks like React. | - Develop responsive web pages and components.<br> - Integrate with backend APIs.<br> - Ensure accessibility and performance optimization.<br> - Collaborate with designers to achieve pixel-perfect UI.     |
+| **Backend Developers**  | Handle the logic, server-side operations, and database management.                             | - Design and develop RESTful APIs.<br> - Manage data storage and security.<br> - Integrate authentication and user management.<br> - Ensure scalability and efficient data handling.                         |
+| **Designers (UI/UX)**   | Focus on user experience and visual design using tools like Figma.                             | - Create wireframes, prototypes, and mockups.<br> - Define color schemes and typography.<br> - Ensure a user-friendly and accessible interface.<br> - Collaborate with developers for design implementation. |
+| **QA/Testers**          | Ensure the application functions correctly and meets quality standards.                        | - Write and execute test cases.<br> - Perform manual and automated testing.<br> - Identify and document bugs.<br> - Verify fixes and maintain test documentation.                                            |
+| **DevOps Engineers**    | Manage deployment, infrastructure, and continuous integration processes.                       | - Set up CI/CD pipelines.<br> - Monitor server performance and uptime.<br> - Automate builds, tests, and deployments.<br> - Maintain version control and environment consistency.                            |
+
+---
+
+### 💡 How These Roles Contribute to Project Success
+
+* **Collaboration:** Each role ensures a smooth workflow from design to deployment.
+* **Quality Assurance:** Continuous testing and feedback improve reliability.
+* **Efficiency:** Defined responsibilities reduce confusion and duplication of effort.
+* **Scalability:** Organized roles support project growth and future enhancements.
+* **User Satisfaction:** Clear design, robust functionality, and thorough testing deliver a positive user experience.
+
+* 
 * 🧍 **Enhances user experience** — a cohesive look and feel creates familiarity and trust.
 * 🪄 **Supports scalability** — future features can be added while maintaining brand alignment.
