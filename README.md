@@ -66,3 +66,74 @@ A **user-friendly design** is critical for the success of a booking system becau
 * **Improves conversion rates** — an easy checkout experience increases completed bookings.
 * **Enhances satisfaction** — visually appealing and responsive design keeps users engaged.
 * **Encourages return visits** — a pleasant experience makes users more likely to book again
+
+
+## 🖌️ UI/UX Design Planning
+
+### 🎯 Design Goals
+
+The goal of this UI/UX design is to create a **clean**, **intuitive**, and **engaging** user interface that mirrors the experience of booking properties on a real accommodation platform. The design ensures:
+
+* **Ease of navigation** between different pages and functions.
+* **Consistency** in visual elements and interaction patterns.
+* **Responsiveness** across all device sizes.
+* **Clarity** in communicating property information and booking steps.
+
+---
+
+### ✨ Key Features to Implement
+
+| Feature                       | Description                                                                     |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| **Search and Filter Options** | Users can find properties by location, price, and availability.                 |
+| **Property Cards**            | Display attractive property images, titles, ratings, and prices.                |
+| **Booking Flow**              | Simple and intuitive process from browsing to checkout.                         |
+| **Responsive Layout**         | Adapts to mobile, tablet, and desktop screens.                                  |
+| **Consistent Branding**       | Uniform color palette and typography across the site.                           |
+| **User Feedback Elements**    | Hover effects, confirmation messages, and error alerts for interaction clarity. |
+
+---
+
+### 🏠 Primary Pages Overview
+
+| Page                      | Description                                           | Key Elements                                                                  |
+| ------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Property Listing View** | Displays all available listings for browsing.         | Search filters, listing grid, property preview cards, pagination.             |
+| **Listing Detailed View** | Shows detailed information about a specific property. | Property images, host details, amenities, price breakdown, “Book Now” button. |
+| **Simple Checkout View**  | Allows users to finalize their booking easily.        | Guest details form, payment section, booking summary, confirmation page.      |
+
+---
+
+### 🎨 Design System — Color Styles & Typography
+
+#### 🎨 **Color Styles**
+
+| Color Name         | Hex Code  | Usage                                        |
+| ------------------ | --------- | -------------------------------------------- |
+| **Primary Red**    | `#FF385C` | Buttons, highlights, and brand accent color. |
+| **Secondary Pink** | `#FD5C63` | Hover states and icons.                      |
+| **Light Gray**     | `#F7F7F7` | Backgrounds and dividers.                    |
+| **Dark Gray**      | `#484848` | Text and headings.                           |
+| **White**          | `#FFFFFF` | Page background and cards.                   |
+| **Black**          | `#000000` | Primary text and contrast elements.          |
+
+#### ✍️ **Typography**
+
+| Text Type           | Font Family          | Font Weight     | Font Size | Usage                          |
+| ------------------- | -------------------- | --------------- | --------- | ------------------------------ |
+| **Heading 1 (H1)**  | *Inter / Sans-serif* | 700 (Bold)      | 32px      | Page titles                    |
+| **Heading 2 (H2)**  | *Inter / Sans-serif* | 600 (Semi-Bold) | 24px      | Section headings               |
+| **Body Text**       | *Inter / Sans-serif* | 400 (Regular)   | 16px      | Paragraphs and general content |
+| **Caption / Label** | *Inter / Sans-serif* | 500 (Medium)    | 14px      | Buttons, tags, small text      |
+
+---
+
+### 🧩 Importance of Identifying Design Properties in a Mock-Up
+
+Understanding and defining design properties in Figma (such as colors, typography, spacing, and layout) is **essential** because it:
+
+* 🎯 **Ensures consistency** — all pages follow the same visual language.
+* 🧠 **Improves collaboration** — developers and designers can easily translate the design into code.
+* ⚡ **Speeds up development** — predefined design tokens reduce decision-making time.
+* 🧍 **Enhances user experience** — a cohesive look and feel creates familiarity and trust.
+* 🪄 **Supports scalability** — future features can be added while maintaining brand alignment.
