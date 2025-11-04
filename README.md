@@ -170,4 +170,36 @@ This section defines the key roles involved in the **Airbnb Clone Project** and 
 
 * 
 * 🧍 **Enhances user experience** — a cohesive look and feel creates familiarity and trust.
-* 🪄 **Supports scalability** — future features can be added while maintaining brand alignment.
+* 🪄 **Supports scalability** — future features can be added while maintaining brand alignment
+
+## 🧩 UI Component Patterns
+
+### 🎯 Objective
+
+This section outlines the **reusable UI components** that will be developed to ensure design consistency, scalability, and ease of maintenance across the Airbnb Clone project.
+
+---
+
+### 🧱 Planned Components
+
+| Component                   | Description                                                                                                                          | Purpose / Functionality                                                                                                                                                   |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Navbar (Navigation Bar)** | A fixed navigation bar at the top of the page that provides quick access to main sections such as “Home,” “Listings,” and “Profile.” | - Displays the logo and navigation links.<br> - Includes a search bar and login/logout buttons.<br> - Ensures responsive design for all screen sizes.                     |
+| **Property Card**           | Displays property information in a compact, visually appealing layout on the Property Listing View.                                  | - Shows property image, name, price, and rating.<br> - Includes a short description or location.<br> - Clickable to navigate to the Property Details View.                |
+| **Footer**                  | A consistent footer section at the bottom of each page containing helpful links and copyright info.                                  | - Provides links to About, Contact, and Terms of Service.<br> - Displays social media icons.<br> - Enhances overall site structure and navigation.                        |
+| **Search Bar Component**    | Allows users to search for listings based on location, date, and price range.                                                        | - Interactive input fields and filters.<br> - Connects to backend queries for property listings.<br> - Includes a clear and accessible layout.                            |
+| **Button Components**       | Reusable buttons with consistent styles and states.                                                                                  | - Includes primary (e.g., “Book Now”), secondary, and disabled states.<br> - Supports hover and click animations.<br> - Ensures consistent color usage and accessibility. |
+| **Booking Form**            | Collects user details for completing bookings.                                                                                       | - Input fields for user info, dates, and payment details.<br> - Includes validation and confirmation feedback.<br> - Designed to guide users smoothly through checkout.   |
+| **Modal / Popup**           | Displays alerts or quick actions without navigating away from the page.                                                              | - Used for login prompts, booking confirmation, or error messages.<br> - Includes close and action buttons for accessibility.                                             |
+
+---
+
+### 💡 Importance of UI Component Patterns
+
+Using consistent UI components ensures:
+
+* **Reusability:** Components can be applied across multiple pages, reducing duplication.
+* **Consistency:** Maintains a unified look and feel throughout the platform.
+* **Efficiency:** Speeds up development and testing processes.
+* **Scalability:** Makes it easier to extend or modify the interface in future updates.
+* **User Experience:** Provides users with familiar and predictable interactions.
